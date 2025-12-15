@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**sw-oo/sw-oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+사용자를 고려한 설계와 유지보수 가능한 코드를 작성하는 개발자입니다.  
+단순히 “동작하는 코드”보다 **왜 이렇게 구현했는지 설명할 수 있는 코드**를 지향합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 문제를 구조적으로 분석하고 재사용 가능한 해결책을 만드는 데 강점이 있습니다
+- 성능, 가독성, 확장성 사이의 균형을 중요하게 생각합니다
+- 코드 리뷰와 기술 공유를 통해 팀의 생산성을 높이는 것을 좋아합니다
+- 새로운 기술을 도입할 때는 *트렌드보다 맥락*을 먼저 고민합니다
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+
+### Frontend
+- React / Next.js
+- 상태 관리 (Context API, Redux)
+- 웹 성능 최적화 (코드 스플리팅, 메모이제이션)
+- 반응형 UI 및 접근성 고려한 마크업
+
+### Backend
+- Node.js / Express
+- RESTful API 설계
+- 인증/인가 (JWT, OAuth)
+- 데이터베이스 설계 및 쿼리 최적화
+
+### DevOps & Tools
+- Git 기반 협업 (PR, 코드 리뷰)
+- Docker를 활용한 개발 환경 구성
+- CI/CD 파이프라인 경험
+- 테스트 코드 작성 및 유지
+
+---
+
+## 📌 Selected Projects
+
+### 🔹 Project Name
+**대규모 트래픽을 고려한 웹 서비스**
+
+- 사용자 흐름을 기준으로 API 및 컴포넌트 구조 설계
+- 반복 렌더링 병목 구간 분석 후 성능 개선
+- 재사용 가능한 공통 컴포넌트 및 유틸 모듈화
+- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL
+
+---
+
+### 🔹 Project Name
+**운영을 고려한 백엔드 시스템 구축**
+
+- REST API 설계 및 에러 핸들링 표준화
+- 인증/인가 로직 분리로 유지보수성 향상
+- Docker 기반 개발/배포 환경 구성
+- **Tech Stack:** Node.js, Express, Docker, MySQL
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_title=true)
+
+---
+
+## ✍️ Development Philosophy
+> 좋은 코드는 한 번 작성하고 끝나는 코드가 아니라  
+> 시간이 지나도 **이해되고, 수정하기 쉬운 코드**라고 생각합니다.
+
+---
+
+## 📫 Contact
+- Email: your.email@example.com  
+- Blog: https://your-blog.com  
+- LinkedIn: https://linkedin.com/in/yourname
+
+---
+
+🔍 꾸준히 더 나은 선택을 고민하는 개발자입니다.
